@@ -22,7 +22,7 @@ You shouldn't, I'm 13. (But hey, feel free to check out my projects and skills a
 ---
 
 ## 📊 Statistics  
-![Zayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0UNT1NGB1NARY&show_icons=true&theme=radical)  
+![Zayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhmmedZayan&show_icons=true&theme=radical)  
 
 ---
 
